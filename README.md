@@ -1,13 +1,13 @@
-# 📊 Sales Dashboard (Excel Project)
+# Sales Dashboard (Excel Project)
 
-## 🔹 Overview
+##  Overview
 
 This project is an **Interactive Sales Dashboard** created using Microsoft Excel.
 It helps analyze sales performance, track key metrics, and generate business insights for better decision-making.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze overall sales performance
 * Track revenue and profit trends
@@ -16,7 +16,7 @@ It helps analyze sales performance, track key metrics, and generate business ins
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 * Interactive dashboard with filters
 * KPIs (Revenue, Profit, Sales)
@@ -26,7 +26,7 @@ It helps analyze sales performance, track key metrics, and generate business ins
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 * Microsoft Excel
 * Pivot Tables
@@ -35,7 +35,7 @@ It helps analyze sales performance, track key metrics, and generate business ins
 
 ---
 
-## 📌 How to Use
+## How to Use
 
 1. Download the Excel file
 2. Open in Microsoft Excel
@@ -44,7 +44,7 @@ It helps analyze sales performance, track key metrics, and generate business ins
 
 ---
 
-## 🚀 Project Insights
+## Project Insights
 
 * Helps in understanding sales patterns
 * Identifies high-performing areas
@@ -52,5 +52,5 @@ It helps analyze sales performance, track key metrics, and generate business ins
 
 ---
 
-⭐ If you like this project, don't forget to star the repository!
+
 
