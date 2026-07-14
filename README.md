@@ -6,6 +6,7 @@ This project is an **Interactive Sales Dashboard** created using Microsoft Excel
 It helps analyze sales performance, track key metrics, and generate business insights for better decision-making.
 
 ---
+<img width="1669" height="765" alt="Screenshot 2026-07-14 203553" src="https://github.com/user-attachments/assets/8470c775-b3f4-4093-b5a8-da909d29cc88" />
 
 ## Objectives
 
